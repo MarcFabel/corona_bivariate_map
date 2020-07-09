@@ -1,0 +1,402 @@
+AGS,cut_point,Neue Fälle verg. 7 Tage pro 100.000 Einwohner,Ort,Zahl bestätigte Fälle,Todesfälle,Sterblichkeitsrate,confirmed_cases,deaths,death_rate,last7days
+01001,0,0,Stadt Flensburg,48,3,6.25,48,3,6.25,0.00
+01004,0,0,Stadt Neumünster,78,2,2.56,78,2,2.56,0.00
+01054,0,0,Kreis Nordfriesland,89,1,1.12,89,1,1.12,0.00
+01055,0,0,Kreis Ostholstein,68,0,0,68,0,0.00,0.00
+01056,0,0,Kreis Pinneberg,601,46,7.65,601,46,7.65,0.00
+01059,0,0,Kreis Schleswig-Flensburg,159,4,2.52,159,4,2.52,0.00
+03154,0,0,Kreis Helmstedt,141,1,0.71,141,1,0.71,0.00
+03155,0,0,Kreis Northeim,146,5,3.42,146,5,3.42,0.00
+03157,0,0,Kreis Peine,161,11,6.83,161,11,6.83,0.00
+03158,0,0,Kreis Wolfenbüttel,190,14,7.37,190,14,7.37,0.00
+03255,0,0,Kreis Holzminden,106,7,6.6,106,7,6.60,0.00
+03257,0,0,Kreis Schaumburg,161,7,4.35,161,7,4.35,0.00
+03351,0,0,Kreis Celle,220,15,6.82,220,15,6.82,0.00
+03353,0,0,Kreis Harburg,557,13,2.33,557,13,2.33,0.00
+03354,0,0,Kreis Lüchow-Dannenberg,21,3,14.29,21,3,14.29,0.00
+03355,0,0,Kreis Lüneburg,167,0,0,167,0,0.00,0.00
+03360,0,0,Kreis Uelzen,44,0,0,44,0,0.00,0.00
+03361,0,0,Kreis Verden,241,7,2.9,241,7,2.90,0.00
+03402,0,0,Stadt Emden,19,0,0,19,0,0.00,0.00
+03405,0,0,Stadt Wilhelmshaven,28,1,3.57,28,1,3.57,0.00
+03451,0,0,Kreis Ammerland,190,5,2.63,190,5,2.63,0.00
+03453,0,0,Kreis Cloppenburg,127,0,0,127,0,0.00,0.00
+03456,0,0,Kreis Grafschaft Bentheim,249,18,7.23,249,18,7.23,0.00
+03461,0,0,Kreis Wesermarsch,72,2,2.78,72,2,2.78,0.00
+03462,0,0,Kreis Wittmund,41,0,0,41,0,0.00,0.00
+05120,0,0,Stadt Remscheid,243,18,7.41,243,18,7.41,0.00
+06534,0,0,Kreis Marburg-Biedenkopf,205,4,1.95,205,4,1.95,0.00
+06635,0,0,Kreis Waldeck-Frankenberg,175,5,2.86,175,5,2.86,0.00
+07111,0,0,Stadt Koblenz,266,18,6.77,266,18,6.77,0.00
+07140,0,0,Kreis Rhein-Hunsrück-Kreis,168,6,3.57,168,6,3.57,0.00
+07141,0,0,Kreis Rhein-Lahn-Kreis,159,6,3.77,159,6,3.77,0.00
+07232,0,0,Kreis Eifelkreis Bitburg-Prüm,199,5,2.51,199,5,2.51,0.00
+07233,0,0,Kreis Vulkaneifel,123,5,4.07,123,5,4.07,0.00
+07311,0,0,Stadt Frankenthal (Pfalz),47,2,4.26,47,2,4.26,0.00
+07317,0,0,Stadt Pirmasens,31,0,0,31,0,0.00,0.00
+07319,0,0,Stadt Worms,224,7,3.12,224,7,3.12,0.00
+07320,0,0,Stadt Zweibrücken,44,1,2.27,44,1,2.27,0.00
+07331,0,0,Kreis Alzey-Worms,271,11,4.06,271,11,4.06,0.00
+07332,0,0,Kreis Bad Dürkheim,329,12,3.65,329,12,3.65,0.00
+07337,0,0,Kreis Südliche Weinstraße,156,3,1.92,156,3,1.92,0.00
+07340,0,0,Kreis Südwestpfalz,106,3,2.83,106,3,2.83,0.00
+08121,0,0,Stadt Heilbronn,472,17,3.6,472,17,3.60,0.00
+08127,0,0,Kreis Schwäbisch Hall,873,59,6.76,873,59,6.76,0.00
+08326,0,0,Kreis Schwarzwald-Baar-Kreis,586,33,5.63,586,33,5.63,0.00
+08337,0,0,Kreis Waldshut,311,35,11.25,311,35,11.25,0.00
+09171,0,0,Kreis Altötting,605,53,8.76,605,53,8.76,0.00
+09176,0,0,Kreis Eichstätt,305,18,5.9,305,18,5.90,0.00
+09180,0,0,Kreis Garmisch-Partenkirchen,294,18,6.12,294,18,6.12,0.00
+09183,0,0,Kreis Mühldorf a. Inn,499,27,5.41,499,27,5.41,0.00
+09185,0,0,Kreis Neuburg-Schrobenhausen,335,18,5.37,335,18,5.37,0.00
+09190,0,0,Kreis Weilheim-Schongau,356,3,0.84,356,3,0.84,0.00
+09272,0,0,Kreis Freyung-Grafenau,196,12,6.12,196,12,6.12,0.00
+09276,0,0,Kreis Regen,196,11,5.61,196,11,5.61,0.00
+09371,0,0,Kreis Amberg-Sulzbach,496,54,10.89,496,54,10.89,0.00
+09372,0,0,Kreis Cham,431,21,4.87,431,21,4.87,0.00
+09376,0,0,Kreis Schwandorf,507,20,3.94,507,20,3.94,0.00
+09461,0,0,Stadt Bamberg,203,22,10.84,203,22,10.84,0.00
+09462,0,0,Stadt Bayreuth,209,11,5.26,209,11,5.26,0.00
+09464,0,0,Stadt Hof,142,4,2.82,142,4,2.82,0.00
+09471,0,0,Kreis Bamberg,431,36,8.35,431,36,8.35,0.00
+09472,0,0,Kreis Bayreuth,429,28,6.53,429,28,6.53,0.00
+09477,0,0,Kreis Kulmbach,246,11,4.47,246,11,4.47,0.00
+09571,0,0,Kreis Ansbach,604,28,4.64,604,28,4.64,0.00
+09574,0,0,Kreis Nürnberger Land,639,44,6.89,639,44,6.89,0.00
+09576,0,0,Kreis Roth,286,7,2.45,286,7,2.45,0.00
+09672,0,0,Kreis Bad Kissingen,258,19,7.36,258,19,7.36,0.00
+09677,0,0,Kreis Main-Spessart,157,6,3.82,157,6,3.82,0.00
+09762,0,0,Stadt Kaufbeuren,111,5,4.5,111,5,4.50,0.00
+09763,0,0,Stadt Kempten (Allgäu),102,10,9.8,102,10,9.80,0.00
+09774,0,0,Kreis Günzburg,239,4,1.67,239,4,1.67,0.00
+09776,0,0,Kreis Lindau (Bodensee),243,8,3.29,243,8,3.29,0.00
+10042,0,0,Kreis Merzig-Wadern,218,2,0.92,218,2,0.92,0.00
+10043,0,0,Kreis Neunkirchen,272,11,4.04,272,11,4.04,0.00
+10045,0,0,Kreis Saarpfalz-Kreis,324,18,5.56,324,18,5.56,0.00
+12051,0,0,Stadt Brandenburg an der Havel,65,1,1.54,65,1,1.54,0.00
+12052,0,0,Stadt Cottbus,39,0,0,39,0,0.00,0.00
+12070,0,0,Kreis Prignitz,31,0,0,31,0,0.00,0.00
+12071,0,0,Kreis Spree-Neiße,66,0,0,66,0,0.00,0.00
+13004,0,0,Stadt Schwerin,91,0,0,91,0,0.00,0.00
+13071,0,0,Kreis Mecklenburgische Seenplatte,126,3,2.38,126,3,2.38,0.00
+13072,0,0,Kreis Rostock,76,3,3.95,76,3,3.95,0.00
+13073,0,0,Kreis Vorpommern-Rügen,93,2,2.15,93,2,2.15,0.00
+13074,0,0,Kreis Nordwestmecklenburg,80,1,1.25,80,1,1.25,0.00
+13075,0,0,Kreis Vorpommern-Greifswald,140,7,5,140,7,5.00,0.00
+14511,0,0,Stadt Chemnitz,211,6,2.84,211,6,2.84,0.00
+14521,0,0,Kreis Erzgebirgskreis,558,43,7.71,558,43,7.71,0.00
+14523,0,0,Kreis Vogtlandkreis,509,22,4.32,509,22,4.32,0.00
+14524,0,0,Kreis Zwickau,886,52,5.87,886,52,5.87,0.00
+14612,0,0,Stadt Dresden,627,10,1.59,627,10,1.59,0.00
+14625,0,0,Kreis Bautzen,503,21,4.17,503,21,4.17,0.00
+14627,0,0,Kreis Meißen,240,20,8.33,240,20,8.33,0.00
+14729,0,0,Kreis Leipzig,196,4,2.04,196,4,2.04,0.00
+14730,0,0,Kreis Nordsachsen,143,0,0,143,0,0.00,0.00
+15001,0,0,Stadt Dessau-Roßlau,66,2,3.03,66,2,3.03,0.00
+15002,0,0,Stadt Halle (Saale),366,11,3.01,366,11,3.01,0.00
+15081,0,0,Kreis Altmarkkreis Salzwedel,34,1,2.94,34,1,2.94,0.00
+15082,0,0,Kreis Anhalt-Bitterfeld,73,2,2.74,73,2,2.74,0.00
+15085,0,0,Kreis Harz,258,5,1.94,258,5,1.94,0.00
+15089,0,0,Kreis Salzlandkreis,71,0,0,71,0,0.00,0.00
+15090,0,0,Kreis Stendal,107,6,5.61,107,6,5.61,0.00
+16053,0,0,Stadt Jena,161,3,1.86,161,3,1.86,0.00
+16055,0,0,Stadt Weimar,69,0,0,69,0,0.00,0.00
+16056,0,0,Stadt Eisenach,30,2,6.67,30,2,6.67,0.00
+16062,0,0,Kreis Nordhausen,66,2,3.03,66,2,3.03,0.00
+16063,0,0,Kreis Wartburgkreis,87,2,2.3,87,2,2.30,0.00
+16065,0,0,Kreis Kyffhäuserkreis,52,0,0,52,0,0.00,0.00
+16070,0,0,Kreis Ilm-Kreis,136,6,4.41,136,6,4.41,0.00
+16071,0,0,Kreis Weimarer Land,74,4,5.41,74,4,5.41,0.00
+16073,0,0,Kreis Saalfeld-Rudolstadt,72,0,0,72,0,0.00,0.00
+16074,0,0,Kreis Saale-Holzland-Kreis,73,3,4.11,73,3,4.11,0.00
+16075,0,0,Kreis Saale-Orla-Kreis,150,12,8,150,12,8.00,0.00
+16077,0,0,Kreis Altenburger Land,76,4,5.26,76,4,5.26,0.00
+01002,bis 5,3.64,Stadt Kiel,294,10,3.4,294,10,3.40,3.64
+01003,bis 5,2.3,Stadt Lübeck,176,1,0.57,176,1,0.57,2.30
+01051,bis 5,2.25,Kreis Dithmarschen,76,4,5.26,76,4,5.26,2.25
+01053,bis 5,0.51,Kreis Herzogtum Lauenburg,269,16,5.95,269,16,5.95,0.51
+01057,bis 5,0.78,Kreis Plön,121,8,6.61,121,8,6.61,0.78
+01058,bis 5,0.73,Kreis Rendsburg-Eckernförde,257,14,5.45,257,14,5.45,0.73
+01060,bis 5,1.45,Kreis Segeberg,337,7,2.08,337,7,2.08,1.45
+01061,bis 5,4.57,Kreis Steinburg,189,3,1.59,189,3,1.59,4.57
+01062,bis 5,1.23,Kreis Stormarn,427,33,7.73,427,33,7.73,1.23
+02000,bis 5,1.03,Stadt Hamburg,5223,261,5,5223,261,5.00,1.03
+03102,bis 5,2.86,Stadt Salzgitter,159,9,5.66,159,9,5.66,2.86
+03103,bis 5,1.61,Stadt Wolfsburg,372,51,13.71,372,51,13.71,1.61
+03151,bis 5,4.55,Kreis Gifhorn,169,4,2.37,169,4,2.37,4.55
+03153,bis 5,0.73,Kreis Goslar,264,25,9.47,264,25,9.47,0.73
+03241,bis 5,1.3,Kreis Region Hannover,2827,116,4.1,2827,116,4.10,1.30
+03252,bis 5,3.37,Kreis Hameln-Pyrmont,141,7,4.96,141,7,4.96,3.37
+03254,bis 5,0.72,Kreis Hildesheim,418,8,1.91,418,8,1.91,0.72
+03256,bis 5,0.82,Kreis Nienburg (Weser),81,4,4.94,81,4,4.94,0.82
+03352,bis 5,3.03,Kreis Cuxhaven,372,20,5.38,372,20,5.38,3.03
+03356,bis 5,2.64,Kreis Osterholz,121,0,0,121,0,0.00,2.64
+03357,bis 5,1.22,Kreis Rotenburg (Wümme),114,2,1.75,114,2,1.75,1.22
+03358,bis 5,1.43,Kreis Heidekreis,76,2,2.63,76,2,2.63,1.43
+03359,bis 5,1.48,Kreis Stade,220,8,3.64,220,8,3.64,1.48
+03401,bis 5,3.87,Stadt Delmenhorst,113,3,2.65,113,3,2.65,3.87
+03403,bis 5,1.19,Stadt Oldenburg (Oldb),180,1,0.56,180,1,0.56,1.19
+03404,bis 5,0.61,Stadt Osnabrück,506,14,2.77,506,14,2.77,0.61
+03452,bis 5,0.53,Kreis Aurich,131,8,6.11,131,8,6.11,0.53
+03454,bis 5,1.23,Kreis Emsland,471,25,5.31,471,25,5.31,1.23
+03455,bis 5,2.03,Kreis Friesland,37,2,5.41,37,2,5.41,2.03
+03457,bis 5,0.59,Kreis Leer,148,6,4.05,148,6,4.05,0.59
+03459,bis 5,0.84,Kreis Osnabrück,1230,66,5.37,1230,66,5.37,0.84
+04011,bis 5,2.46,Stadt Bremen,1476,48,3.25,1476,48,3.25,2.46
+04012,bis 5,2.64,Stadt Bremerhaven,203,6,2.96,203,6,2.96,2.64
+05113,bis 5,2.57,Stadt Essen,994,41,4.12,994,41,4.12,2.57
+05116,bis 5,3.82,Stadt Mönchengladbach,693,41,5.92,693,41,5.92,3.82
+05119,bis 5,4.27,Stadt Oberhausen,306,11,3.59,306,11,3.59,4.27
+05122,bis 5,1.88,Stadt Solingen,295,10,3.39,295,10,3.39,1.88
+05154,bis 5,2.57,Kreis Kleve,819,37,4.52,819,37,4.52,2.57
+05162,bis 5,3.33,Kreis Rhein-Kreis Neuss,792,20,2.53,792,20,2.53,3.33
+05166,bis 5,1.34,Kreis Viersen,738,37,5.01,738,37,5.01,1.34
+05314,bis 5,3.06,Stadt Bonn,767,8,1.04,767,8,1.04,3.06
+05315,bis 5,1.66,Stadt Köln,2622,104,3.97,2622,104,3.97,1.66
+05316,bis 5,1.83,Stadt Leverkusen,256,5,1.95,256,5,1.95,1.83
+05334,bis 5,1.44,Kreis Städteregion Aachen,2010,98,4.88,2010,98,4.88,1.44
+05358,bis 5,0.76,Kreis Düren,618,39,6.31,618,39,6.31,0.76
+05362,bis 5,1.28,Kreis Rhein-Erft-Kreis,1123,76,6.77,1123,76,6.77,1.28
+05370,bis 5,2.36,Kreis Heinsberg,1957,81,4.14,1957,81,4.14,2.36
+05374,bis 5,2.57,Kreis Oberbergischer Kreis,501,18,3.59,501,18,3.59,2.57
+05378,bis 5,1.76,Kreis Rheinisch-Bergischer Kreis,479,22,4.59,479,22,4.59,1.76
+05382,bis 5,0.5,Kreis Rhein-Sieg-Kreis,1470,50,3.4,1470,50,3.40,0.50
+05515,bis 5,0.32,Stadt Münster,733,13,1.77,733,13,1.77,0.32
+05554,bis 5,1.62,Kreis Borken,1120,38,3.39,1120,38,3.39,1.62
+05558,bis 5,3.64,Kreis Coesfeld,879,25,2.84,879,25,2.84,3.64
+05566,bis 5,1.56,Kreis Steinfurt,1347,83,6.16,1347,83,6.16,1.56
+05711,bis 5,4.49,Stadt Bielefeld,475,5,1.05,475,5,1.05,4.49
+05762,bis 5,0.71,Kreis Höxter,372,18,4.84,372,18,4.84,0.71
+05766,bis 5,2.58,Kreis Lippe,766,29,3.79,766,29,3.79,2.58
+05770,bis 5,0.97,Kreis Minden-Lübbecke,500,13,2.6,500,13,2.60,0.97
+05774,bis 5,3.26,Kreis Paderborn,727,34,4.68,727,34,4.68,3.26
+05911,bis 5,2.19,Stadt Bochum,631,19,3.01,631,19,3.01,2.19
+05954,bis 5,4.32,Kreis Ennepe-Ruhr-Kreis,488,14,2.87,488,14,2.87,4.32
+05958,bis 5,1.15,Kreis Hochsauerlandkreis,627,17,2.71,627,17,2.71,1.15
+05962,bis 5,1.94,Kreis Märkischer Kreis,628,31,4.94,628,31,4.94,1.94
+05966,bis 5,2.97,Kreis Olpe,657,56,8.52,657,56,8.52,2.97
+05970,bis 5,0.36,Kreis Siegen-Wittgenstein,316,8,2.53,316,8,2.53,0.36
+05974,bis 5,1.66,Kreis Soest,395,8,2.03,395,8,2.03,1.66
+05978,bis 5,2.79,Kreis Unna,775,39,5.03,775,39,5.03,2.79
+06411,bis 5,0.63,Stadt Darmstadt,229,18,7.86,229,18,7.86,0.63
+06412,bis 5,3.45,Stadt Frankfurt am Main,1795,67,3.73,1795,67,3.73,3.45
+06414,bis 5,4.67,Stadt Wiesbaden,481,22,4.57,481,22,4.57,4.67
+06431,bis 5,2.97,Kreis Bergstraße,374,3,0.8,374,3,0.80,2.97
+06432,bis 5,1.01,Kreis Darmstadt-Dieburg,437,20,4.58,437,20,4.58,1.01
+06433,bis 5,3.64,Kreis Groß-Gerau,557,15,2.69,557,15,2.69,3.64
+06434,bis 5,0.42,Kreis Hochtaunuskreis,291,5,1.72,291,5,1.72,0.42
+06436,bis 5,1.68,Kreis Main-Taunus-Kreis,375,15,4,375,15,4.00,1.68
+06437,bis 5,1.03,Kreis Odenwaldkreis,411,63,15.33,411,63,15.33,1.03
+06438,bis 5,3.67,Kreis Offenbach,700,41,5.86,700,41,5.86,3.67
+06440,bis 5,1.96,Kreis Wetteraukreis,362,13,3.59,362,13,3.59,1.96
+06531,bis 5,4.09,Kreis Gießen,259,4,1.54,259,4,1.54,4.09
+06532,bis 5,0.39,Kreis Lahn-Dill-Kreis,347,18,5.19,347,18,5.19,0.39
+06533,bis 5,3.49,Kreis Limburg-Weilburg,299,6,2.01,299,6,2.01,3.49
+06535,bis 5,0.94,Kreis Vogelsbergkreis,122,5,4.1,122,5,4.10,0.94
+06611,bis 5,2.98,Stadt Kassel,383,9,2.35,383,9,2.35,2.98
+06631,bis 5,2.25,Kreis Fulda,396,12,3.03,396,12,3.03,2.25
+06633,bis 5,0.42,Kreis Kassel,407,28,6.88,407,28,6.88,0.42
+06636,bis 5,0.99,Kreis Werra-Meißner-Kreis,232,16,6.9,232,16,6.90,0.99
+07132,bis 5,3.88,Kreis Altenkirchen (Westerwald),177,11,6.21,177,11,6.21,3.88
+07133,bis 5,0.63,Kreis Bad Kreuznach,203,7,3.45,203,7,3.45,0.63
+07134,bis 5,1.24,Kreis Birkenfeld,91,2,2.2,91,2,2.20,1.24
+07135,bis 5,1.62,Kreis Cochem-Zell,138,1,0.72,138,1,0.72,1.62
+07137,bis 5,0.47,Kreis Mayen-Koblenz,350,14,4,350,14,4.00,0.47
+07138,bis 5,0.55,Kreis Neuwied,216,4,1.85,216,4,1.85,0.55
+07211,bis 5,1.81,Stadt Trier,105,1,0.95,105,1,0.95,1.81
+07231,bis 5,1.78,Kreis Bernkastel-Wittlich,178,2,1.12,178,2,1.12,1.78
+07235,bis 5,1.34,Kreis Trier-Saarburg,206,9,4.37,206,9,4.37,1.34
+07312,bis 5,1,Stadt Kaiserslautern,193,6,3.11,193,6,3.11,1.00
+07313,bis 5,2.14,Stadt Landau in der Pfalz,57,2,3.51,57,2,3.51,2.14
+07314,bis 5,2.92,Stadt Ludwigshafen am Rhein,337,2,0.59,337,2,0.59,2.92
+07315,bis 5,1.38,Stadt Mainz,682,26,3.81,682,26,3.81,1.38
+07316,bis 5,1.88,Stadt Neustadt an der Weinstraße,107,2,1.87,107,2,1.87,1.88
+07333,bis 5,1.33,Kreis Donnersbergkreis,138,6,4.35,138,6,4.35,1.33
+07335,bis 5,0.94,Kreis Kaiserslautern,108,1,0.93,108,1,0.93,0.94
+07338,bis 5,2.59,Kreis Rhein-Pfalz-Kreis,269,5,1.86,269,5,1.86,2.59
+07339,bis 5,0.95,Kreis Mainz-Bingen,436,25,5.73,436,25,5.73,0.95
+08111,bis 5,2.68,Stadt Stuttgart,1553,64,4.12,1553,64,4.12,2.68
+08115,bis 5,1.53,Kreis Böblingen,1455,47,3.23,1455,47,3.23,1.53
+08116,bis 5,3,Kreis Esslingen,1874,119,6.35,1874,119,6.35,3.00
+08117,bis 5,3.11,Kreis Göppingen,811,39,4.81,811,39,4.81,3.11
+08118,bis 5,1.84,Kreis Ludwigsburg,1825,72,3.95,1825,72,3.95,1.84
+08119,bis 5,3.29,Kreis Rems-Murr-Kreis,1658,93,5.61,1658,93,5.61,3.29
+08125,bis 5,0.58,Kreis Heilbronn,961,42,4.37,961,42,4.37,0.58
+08126,bis 5,1.79,Kreis Hohenlohekreis,781,47,6.02,781,47,6.02,1.79
+08128,bis 5,0.76,Kreis Main-Tauber-Kreis,399,10,2.51,399,10,2.51,0.76
+08135,bis 5,0.75,Kreis Heidenheim,515,41,7.96,515,41,7.96,0.75
+08136,bis 5,0.64,Kreis Ostalbkreis,1455,37,2.54,1455,37,2.54,0.64
+08211,bis 5,3.63,Stadt Baden-Baden,187,19,10.16,187,19,10.16,3.63
+08212,bis 5,2.24,Stadt Karlsruhe,423,14,3.31,423,14,3.31,2.24
+08215,bis 5,1.35,Kreis Karlsruhe,1035,81,7.83,1035,81,7.83,1.35
+08216,bis 5,2.16,Kreis Rastatt,531,17,3.2,531,17,3.20,2.16
+08221,bis 5,0.62,Stadt Heidelberg,316,7,2.22,316,7,2.22,0.62
+08222,bis 5,4.2,Stadt Mannheim,515,13,2.52,515,13,2.52,4.20
+08225,bis 5,0.7,Kreis Neckar-Odenwald-Kreis,443,22,4.97,443,22,4.97,0.70
+08226,bis 5,1.28,Kreis Rhein-Neckar-Kreis,974,39,4,974,39,4.00,1.28
+08231,bis 5,4.78,Stadt Pforzheim,426,8,1.88,426,8,1.88,4.78
+08235,bis 5,1.89,Kreis Calw,762,27,3.54,762,27,3.54,1.89
+08236,bis 5,0.5,Kreis Enzkreis,659,21,3.19,659,21,3.19,0.50
+08237,bis 5,0.85,Kreis Freudenstadt,571,38,6.65,571,38,6.65,0.85
+08311,bis 5,0.43,Stadt Freiburg im Breisgau,973,78,8.02,973,78,8.02,0.43
+08315,bis 5,1.14,Kreis Breisgau-Hochschwarzwald,1136,71,6.25,1136,71,6.25,1.14
+08316,bis 5,1.81,Kreis Emmendingen,537,43,8.01,537,43,8.01,1.81
+08317,bis 5,0.47,Kreis Ortenaukreis,1214,124,10.21,1214,124,10.21,0.47
+08325,bis 5,0.72,Kreis Rottweil,680,26,3.82,680,26,3.82,0.72
+08327,bis 5,1.43,Kreis Tuttlingen,516,23,4.46,516,23,4.46,1.43
+08335,bis 5,0.35,Kreis Konstanz,469,15,3.2,469,15,3.20,0.35
+08336,bis 5,0.87,Kreis Lörrach,668,61,9.13,668,61,9.13,0.87
+08415,bis 5,1.39,Kreis Reutlingen,1559,82,5.26,1559,82,5.26,1.39
+08416,bis 5,1.76,Kreis Tübingen,1296,60,4.63,1296,60,4.63,1.76
+08417,bis 5,2.12,Kreis Zollernalbkreis,1224,77,6.29,1224,77,6.29,2.12
+08421,bis 5,1.58,Stadt Ulm,290,5,1.72,290,5,1.72,1.58
+08425,bis 5,2.55,Kreis Alb-Donau-Kreis,662,27,4.08,662,27,4.08,2.55
+08435,bis 5,0.46,Kreis Bodenseekreis,297,8,2.69,297,8,2.69,0.46
+08436,bis 5,1.41,Kreis Ravensburg,567,7,1.23,567,7,1.23,1.41
+08437,bis 5,0.76,Kreis Sigmaringen,777,35,4.5,777,35,4.50,0.76
+09161,bis 5,2.19,Stadt Ingolstadt,489,37,7.57,489,37,7.57,2.19
+09172,bis 5,3.78,Kreis Berchtesgadener Land,329,25,7.6,329,25,7.60,3.78
+09174,bis 5,2.6,Kreis Dachau,933,30,3.22,933,30,3.22,2.60
+09175,bis 5,1.41,Kreis Ebersberg,519,5,0.96,519,5,0.96,1.41
+09178,bis 5,1.67,Kreis Freising,975,43,4.41,975,43,4.41,1.67
+09181,bis 5,1.67,Kreis Landsberg am Lech,372,10,2.69,372,10,2.69,1.67
+09182,bis 5,2.01,Kreis Miesbach,591,11,1.86,591,11,1.86,2.01
+09186,bis 5,0.79,Kreis Pfaffenhofen a.d. Ilm,384,21,5.47,384,21,5.47,0.79
+09187,bis 5,4.6,Kreis Rosenheim,2300,197,8.57,2300,197,8.57,4.60
+09189,bis 5,0.56,Kreis Traunstein,1306,88,6.74,1306,88,6.74,0.56
+09261,bis 5,4.14,Stadt Landshut,283,9,3.18,283,9,3.18,4.14
+09262,bis 5,1.91,Stadt Passau,139,18,12.95,139,18,12.95,1.91
+09271,bis 5,1.68,Kreis Deggendorf,330,15,4.55,330,15,4.55,1.68
+09275,bis 5,1.04,Kreis Passau,609,29,4.76,609,29,4.76,1.04
+09277,bis 5,1.66,Kreis Rottal-Inn,736,48,6.52,736,48,6.52,1.66
+09278,bis 5,1.99,Kreis Straubing-Bogen,555,29,5.23,555,29,5.23,1.99
+09361,bis 5,2.38,Stadt Amberg,90,4,4.44,90,4,4.44,2.38
+09363,bis 5,4.7,Stadt Weiden i.d. OPf.,339,20,5.9,339,20,5.90,4.70
+09373,bis 5,0.75,Kreis Neumarkt i.d. OPf.,394,17,4.31,394,17,4.31,0.75
+09374,bis 5,4.24,Kreis Neustadt a.d. Waldnaab,837,73,8.72,837,73,8.72,4.24
+09375,bis 5,1.55,Kreis Regensburg,510,15,2.94,510,15,2.94,1.55
+09377,bis 5,2.76,Kreis Tirschenreuth,1143,139,12.16,1143,139,12.16,2.76
+09463,bis 5,2.42,Stadt Coburg,116,2,1.72,116,2,1.72,2.42
+09473,bis 5,3.45,Kreis Coburg,375,30,8,375,30,8.00,3.45
+09474,bis 5,0.86,Kreis Forchheim,209,4,1.91,209,4,1.91,0.86
+09475,bis 5,1.05,Kreis Hof,427,32,7.49,427,32,7.49,1.05
+09476,bis 5,1.49,Kreis Kronach,169,3,1.78,169,3,1.78,1.49
+09478,bis 5,2.99,Kreis Lichtenfels,304,17,5.59,304,17,5.59,2.99
+09479,bis 5,1.37,Kreis Wunsiedel i. Fichtelgebirge,661,40,6.05,661,40,6.05,1.37
+09561,bis 5,4.78,Stadt Ansbach,153,8,5.23,153,8,5.23,4.78
+09562,bis 5,1.79,Stadt Erlangen,261,11,4.21,261,11,4.21,1.79
+09564,bis 5,1.93,Stadt Nürnberg,1131,50,4.42,1131,50,4.42,1.93
+09565,bis 5,2.45,Stadt Schwabach,81,2,2.47,81,2,2.47,2.45
+09572,bis 5,3.67,Kreis Erlangen-Höchstadt,252,11,4.37,252,11,4.37,3.67
+09573,bis 5,0.85,Kreis Fürth,494,58,11.74,494,58,11.74,0.85
+09575,bis 5,3.99,Kreis Neustadt a.d. Aisch-Bad Windsheim,252,6,2.38,252,6,2.38,3.99
+09577,bis 5,1.06,Kreis Weißenburg-Gunzenhausen,335,25,7.46,335,25,7.46,1.06
+09663,bis 5,1.56,Stadt Würzburg,489,52,10.63,489,52,10.63,1.56
+09671,bis 5,1.15,Kreis Aschaffenburg,543,41,7.55,543,41,7.55,1.15
+09673,bis 5,1.25,Kreis Rhön-Grabfeld,198,8,4.04,198,8,4.04,1.25
+09674,bis 5,1.18,Kreis Haßberge,165,6,3.64,165,6,3.64,1.18
+09675,bis 5,1.1,Kreis Kitzingen,193,3,1.55,193,3,1.55,1.10
+09676,bis 5,1.55,Kreis Miltenberg,308,5,1.62,308,5,1.62,1.55
+09678,bis 5,1.74,Kreis Schweinfurt,523,25,4.78,523,25,4.78,1.74
+09679,bis 5,1.24,Kreis Würzburg,413,7,1.69,413,7,1.69,1.24
+09761,bis 5,3.05,Stadt Augsburg,451,15,3.33,451,15,3.33,3.05
+09764,bis 5,4.56,Stadt Memmingen,55,0,0,55,0,0.00,4.56
+09771,bis 5,0.75,Kreis Aichach-Friedberg,390,20,5.13,390,20,5.13,0.75
+09772,bis 5,2.39,Kreis Augsburg,397,10,2.52,397,10,2.52,2.39
+09773,bis 5,2.08,Kreis Dillingen a.d. Donau,267,29,10.86,267,29,10.86,2.08
+09775,bis 5,1.15,Kreis Neu-Ulm,441,26,5.9,441,26,5.90,1.15
+09778,bis 5,1.39,Kreis Unterallgäu,273,14,5.13,273,14,5.13,1.39
+09779,bis 5,2.25,Kreis Donau-Ries,357,23,6.44,357,23,6.44,2.25
+09780,bis 5,0.64,Kreis Oberallgäu,191,7,3.66,191,7,3.66,0.64
+10041,bis 5,0.3,Kreis Regionalverband Saarbrücken,1261,114,9.04,1261,114,9.04,0.30
+10044,bis 5,0.51,Kreis Saarlouis,560,24,4.29,560,24,4.29,0.51
+10046,bis 5,1.14,Kreis St. Wendel,171,5,2.92,171,5,2.92,1.14
+12053,bis 5,1.73,Stadt Frankfurt (Oder),33,0,0,33,0,0.00,1.73
+12054,bis 5,0.56,Stadt Potsdam,632,51,8.07,632,51,8.07,0.56
+12060,bis 5,0.55,Kreis Barnim,432,29,6.71,432,29,6.71,0.55
+12061,bis 5,2.37,Kreis Dahme-Spreewald,262,8,3.05,262,8,3.05,2.37
+12062,bis 5,0.97,Kreis Elbe-Elster,82,3,3.66,82,3,3.66,0.97
+12063,bis 5,2.47,Kreis Havelland,194,6,3.09,194,6,3.09,2.47
+12064,bis 5,0.51,Kreis Märkisch-Oderland,217,4,1.84,217,4,1.84,0.51
+12065,bis 5,1.42,Kreis Oberhavel,326,9,2.76,326,9,2.76,1.42
+12066,bis 5,0.91,Kreis Oberspreewald-Lausitz,53,2,3.77,53,2,3.77,0.91
+12067,bis 5,1.12,Kreis Oder-Spree,143,2,1.4,143,2,1.40,1.12
+12068,bis 5,3.03,Kreis Ostprignitz-Ruppin,86,0,0,86,0,0.00,3.03
+12069,bis 5,0.93,Kreis Potsdam-Mittelmark,586,38,6.48,586,38,6.48,0.93
+12072,bis 5,2.38,Kreis Teltow-Fläming,176,13,7.39,176,13,7.39,2.38
+12073,bis 5,0.84,Kreis Uckermark,45,2,4.44,45,2,4.44,0.84
+13003,bis 5,0.48,Stadt Rostock,106,2,1.89,106,2,1.89,0.48
+13076,bis 5,0.47,Kreis Ludwigslust-Parchim,93,2,2.15,93,2,2.15,0.47
+14522,bis 5,0.98,Kreis Mittelsachsen,304,9,2.96,304,9,2.96,0.98
+14626,bis 5,0.39,Kreis Görlitz,270,23,8.52,270,23,8.52,0.39
+14628,bis 5,0.41,Kreis Sächsische Schweiz-Osterzgebirge,390,2,0.51,390,2,0.51,0.41
+14713,bis 5,1.02,Stadt Leipzig,622,12,1.93,622,12,1.93,1.02
+15083,bis 5,0.58,Kreis Börde,166,13,7.83,166,13,7.83,0.58
+15084,bis 5,1.11,Kreis Burgenlandkreis,125,2,1.6,125,2,1.60,1.11
+15086,bis 5,2.22,Kreis Jerichower Land,36,2,5.56,36,2,5.56,2.22
+15087,bis 5,0.73,Kreis Mansfeld-Südharz,55,2,3.64,55,2,3.64,0.73
+15088,bis 5,1.08,Kreis Saalekreis,136,7,5.15,136,7,5.15,1.08
+15091,bis 5,0.79,Kreis Wittenberg,159,3,1.89,159,3,1.89,0.79
+16051,bis 5,0.47,Stadt Erfurt,140,2,1.43,140,2,1.43,0.47
+16052,bis 5,4.25,Stadt Gera,259,21,8.11,259,21,8.11,4.25
+16054,bis 5,2.87,Stadt Suhl,21,2,9.52,21,2,9.52,2.87
+16061,bis 5,1.99,Kreis Eichsfeld,161,9,5.59,161,9,5.59,1.99
+16064,bis 5,0.97,Kreis Unstrut-Hainich-Kreis,92,3,3.26,92,3,3.26,0.97
+16066,bis 5,4.09,Kreis Schmalkalden-Meiningen,156,4,2.56,156,4,2.56,4.09
+16067,bis 5,2.21,Kreis Gotha,315,30,9.52,315,30,9.52,2.21
+16068,bis 5,1.44,Kreis Sömmerda,38,1,2.63,38,1,2.63,1.44
+16072,bis 5,1.78,Kreis Sonneberg,304,22,7.24,304,22,7.24,1.78
+16076,bis 5,2.04,Kreis Greiz,668,48,7.19,668,48,7.19,2.04
+03101,bis 20,5.64,Stadt Braunschweig,351,18,5.13,351,18,5.13,5.64
+03159,bis 20,7.93,Kreis Göttingen,1285,76,5.91,1285,76,5.91,7.93
+03251,bis 20,5.53,Kreis Diepholz,402,26,6.47,402,26,6.47,5.53
+03458,bis 20,14.6,Kreis Oldenburg,298,15,5.03,298,15,5.03,14.60
+03460,bis 20,8.47,Kreis Vechta,364,12,3.3,364,12,3.30,8.47
+05114,bis 20,6.17,Stadt Krefeld,675,23,3.41,675,23,3.41,6.17
+05117,bis 20,8.78,Stadt Mülheim an der Ruhr,274,13,4.74,274,13,4.74,8.78
+05124,bis 20,5.64,Stadt Wuppertal,1019,86,8.44,1019,86,8.44,5.64
+05158,bis 20,5.15,Kreis Mettmann,1055,79,7.49,1055,79,7.49,5.15
+05170,bis 20,8.05,Kreis Wesel,816,27,3.31,816,27,3.31,8.05
+05366,bis 20,7.78,Kreis Euskirchen,496,23,4.64,496,23,4.64,7.78
+05512,bis 20,5.11,Stadt Bottrop,218,7,3.21,218,7,3.21,5.11
+05513,bis 20,6.52,Stadt Gelsenkirchen,533,17,3.19,533,17,3.19,6.52
+05562,bis 20,5.36,Kreis Recklinghausen,1413,40,2.83,1413,40,2.83,5.36
+05570,bis 20,10.08,Kreis Warendorf,835,20,2.4,835,20,2.40,10.08
+05758,bis 20,6.38,Kreis Herford,393,7,1.78,393,7,1.78,6.38
+05913,bis 20,12.1,Stadt Dortmund,1038,13,1.25,1038,13,1.25,12.10
+05914,bis 20,6.36,Stadt Hagen,415,13,3.13,415,13,3.13,6.36
+05915,bis 20,8.93,Stadt Hamm,567,36,6.35,567,36,6.35,8.93
+05916,bis 20,7.67,Stadt Herne,252,2,0.79,252,2,0.79,7.67
+06413,bis 20,13.2,Stadt Offenbach am Main,212,9,4.25,212,9,4.25,13.20
+06435,bis 20,5.49,Kreis Main-Kinzig-Kreis,805,50,6.21,805,50,6.21,5.49
+06439,bis 20,6.95,Kreis Rheingau-Taunus-Kreis,266,5,1.88,266,5,1.88,6.95
+06632,bis 20,9.93,Kreis Hersfeld-Rotenburg,311,22,7.07,311,22,7.07,9.93
+06634,bis 20,5.55,Kreis Schwalm-Eder-Kreis,554,37,6.68,554,37,6.68,5.55
+07131,bis 20,8.48,Kreis Ahrweiler,207,1,0.48,207,1,0.48,8.48
+07143,bis 20,5.95,Kreis Westerwaldkreis,383,22,5.74,383,22,5.74,5.95
+07318,bis 20,9.92,Stadt Speyer,106,1,0.94,106,1,0.94,9.92
+07334,bis 20,13.95,Kreis Germersheim,189,5,2.65,189,5,2.65,13.95
+07336,bis 20,5.67,Kreis Kusel,95,1,1.05,95,1,1.05,5.67
+08426,bis 20,6.51,Kreis Biberach,626,34,5.43,626,34,5.43,6.51
+09162,bis 20,8.15,Stadt München,6901,222,3.22,6901,222,3.22,8.15
+09163,bis 20,7.9,Stadt Rosenheim,524,23,4.39,524,23,4.39,7.90
+09173,bis 20,18.08,Kreis Bad Tölz-Wolfratshausen,458,10,2.18,458,10,2.18,18.08
+09177,bis 20,6.54,Kreis Erding,651,11,1.69,651,11,1.69,6.54
+09179,bis 20,5.02,Kreis Fürstenfeldbruck,927,36,3.88,927,36,3.88,5.02
+09184,bis 20,5.73,Kreis München,1465,91,6.21,1465,91,6.21,5.73
+09188,bis 20,12.49,Kreis Starnberg,585,13,2.22,585,13,2.22,12.49
+09263,bis 20,10.46,Stadt Straubing,433,48,11.09,433,48,11.09,10.46
+09273,bis 20,6.54,Kreis Kelheim,463,35,7.56,463,35,7.56,6.54
+09274,bis 20,8.19,Kreis Landshut,685,31,4.53,685,31,4.53,8.19
+09362,bis 20,10.48,Stadt Regensburg,696,10,1.44,696,10,1.44,10.48
+09563,bis 20,6.26,Stadt Fürth,428,38,8.88,428,38,8.88,6.26
+09661,bis 20,7.09,Stadt Aschaffenburg,121,1,0.83,121,1,0.83,7.09
+09662,bis 20,5.55,Stadt Schweinfurt,188,18,9.57,188,18,9.57,5.55
+09777,bis 20,5.7,Kreis Ostallgäu,520,39,7.5,520,39,7.50,5.70
+15003,bis 20,5.45,Stadt Magdeburg,242,3,1.24,242,3,1.24,5.45
+16069,bis 20,7.87,Kreis Hildburghausen,77,1,1.3,77,1,1.30,7.87
+11000,bis 20,5.809796803020033,Berlin,8462,215,2.540770503427086,8462,215,2.54,5.81
+05111,bis 35,22.44,Stadt Düsseldorf,1930,39,2.02,1930,39,2.02,22.44
+05112,bis 35,21.66,Stadt Duisburg,1645,58,3.53,1645,58,3.53,21.66
+09279,bis 35,22.86,Kreis Dingolfing-Landau,251,9,3.59,251,9,3.59,22.86
+05754,bis 50,35.43,Kreis Gütersloh,2465,20,0.81,2465,20,0.81,35.43

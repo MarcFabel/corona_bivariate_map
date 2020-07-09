@@ -1,0 +1,91 @@
+\documentclass[paper=a4,fontsize=12pt]{article}
+
+\usepackage[margin=11pt,font=small,labelfont=bf]{caption}
+
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{ltxtable}
+
+\usepackage[
+	top    = 3cm,
+	bottom = 3cm,
+	left   = 4cm,
+	right  = 4cm]{geometry}
+	
+
+
+
+
+
+\usepackage[usenames,dvipsnames]{xcolor}
+
+\usepackage{chngpage} %% hilft die Sachen unter der Tabelle speziell auszurichten 
+\usepackage{tikz}
+\usetikzlibrary{decorations.pathreplacing}
+
+\usepackage{amsmath}
+
+
+\begin{document}
+
+
+\definecolor{mycolora1}{RGB}{202, 190, 208}
+\definecolor{mycolora2}{RGB}{137, 161, 200}
+\definecolor{mycolora3}{RGB}{72, 133, 193}
+
+\definecolor{mycolorb1}{RGB}{188, 124, 143}
+\definecolor{mycolorb2}{RGB}{128, 106, 138}
+\definecolor{mycolorb3}{RGB}{67, 87, 134}
+
+\definecolor{mycolorc1}{RGB}{174, 58, 78}
+\definecolor{mycolorc2}{RGB}{119, 50, 76}
+\definecolor{mycolorc3}{RGB}{63, 41, 73}
+
+\newpage
+\begin{center}
+	\begin{figure}
+		\begin{tikzpicture}[xscale=1,yscale=1]
+			\draw[ thick, domain=0:2] [-] (0,9) -- (0,0) -- (9,0);
+			\draw [fill=mycolora1] (0,0) rectangle (3,3);
+			\draw [fill=mycolora2] (0,3) rectangle (3,6);
+			\draw [fill=mycolora3] (0,6) rectangle (3,9);
+
+			\draw [fill=mycolorb1] (3,0) rectangle (6,3);
+			\draw [fill=mycolorb2] (3,3) rectangle (6,6);
+			\draw [fill=mycolorb3] (3,6) rectangle (6,9);
+
+			\draw [fill=mycolorc1] (6,0) rectangle (9,3);
+			\draw [fill=mycolorc2] (6,3) rectangle (9,6);
+			\draw [fill=mycolorc3] (6,6) rectangle (9,9);
+
+			\node [below] at (4.5,-0.5) {\textbf{\Huge{Higher death rate $\rightarrow$}}};
+			\node [rotate=90, above] at (-0.5,4.5) {\textbf{\Huge{More cases $\rightarrow$}}};
+
+		\end{tikzpicture}
+	\end{figure}
+\end{center}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
